@@ -56,7 +56,7 @@ nav a {
 article {
     width: 100%;
     justify-content: center;
-    background-image: url(../css/images/sf0002_cropL.jpeg);
+    background-image: url(./images/sf0002_cropL.jpeg);
     background-repeat: no-repeat;
     background-position: top center;
     min-height: 500px;
